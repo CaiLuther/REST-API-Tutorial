@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace Catalog.Repositories
 {
-    public class InMemItemsRepository
+
+    public class InMemItemsRepository : IItemsRepository
     {
         private readonly List<Item> items = new()
         {
@@ -21,7 +22,8 @@ namespace Catalog.Repositories
             return items;
         }
 
-        public Item GetItem(Guid id){
+        public Item GetItem(Guid id)
+        {
             return items.Where(item => item.Id == id).SingleOrDefault();
         }
     }
