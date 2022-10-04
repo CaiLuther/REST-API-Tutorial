@@ -41,3 +41,6 @@ C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST API\Catalog\bin\Debug\net6.0\
 C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST API\Catalog\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST API\Catalog\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST API\Catalog\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST API\Catalog\bin\Debug\net6.0\HealthChecks.MongoDb.dll
+C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST API\Catalog\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST API\Catalog\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
