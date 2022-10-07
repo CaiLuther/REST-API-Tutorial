@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zDklmkPyC1dcP+1SY9FNU/lOWJzTJreqrMBu0XJdSfOGRq4s8Ds7HhkKNTILcs7b/oFdQnRacRv59nCaZ2/Z2w==",
+  "dgSpecHash": "6OFT8jdprmpI9zOHWOBNJMrc8gqGoeeyc8w+q35Ves9ZdKjqCRPQ5RVKkywQj4F8/RsfVV1VF8HUmpx6QH71OA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST API\\Catalog\\Catalog.csproj",
+  "projectFilePath": "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST-API-Tutorial\\Catalog\\Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cailu\\.nuget\\packages\\aspnetcore.healthchecks.mongodb\\6.0.2\\aspnetcore.healthchecks.mongodb.6.0.2.nupkg.sha512",
     "C:\\Users\\cailu\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",

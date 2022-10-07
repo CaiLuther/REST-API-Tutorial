@@ -8,9 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Catalog
 build_property.RootNamespace = Catalog
-build_property.ProjectDir = C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST API\Catalog\
+<<<<<<< HEAD
+build_property.ProjectDir = c:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST-API-Tutorial\Catalog\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST API\Catalog
+build_property.MSBuildProjectDirectory = c:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST-API-Tutorial\Catalog
+=======
+build_property.ProjectDir = c:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST API\Catalog\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST API\Catalog
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
 build_property._RazorSourceGeneratorDebug = 

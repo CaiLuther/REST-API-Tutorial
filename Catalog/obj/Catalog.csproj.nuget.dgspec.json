@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST API\\Catalog\\Catalog.csproj": {}
+    "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST-API-Tutorial\\Catalog\\Catalog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST API\\Catalog\\Catalog.csproj": {
+    "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST-API-Tutorial\\Catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST API\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST-API-Tutorial\\Catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST API\\Catalog\\Catalog.csproj",
+        "projectPath": "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST-API-Tutorial\\Catalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\cailu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST API\\Catalog\\obj\\",
+        "outputPath": "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST-API-Tutorial\\Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cailu\\AppData\\Roaming\\NuGet\\NuGet.Config",

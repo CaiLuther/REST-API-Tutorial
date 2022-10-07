@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST API\\Catalog\\Catalog.csproj",
+  "FilePath": "c:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST-API-Tutorial\\Catalog\\Catalog.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -12,7 +12,11 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -884268215,
+<<<<<<< HEAD
+        "HashCode": 715883392,
+=======
+        "HashCode": 1270179372,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -89,7 +93,11 @@
         }
       },
       {
-        "HashCode": 504678125,
+<<<<<<< HEAD
+        "HashCode": -1217832917,
+=======
+        "HashCode": 282502282,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -167,7 +175,11 @@
         }
       },
       {
-        "HashCode": 313888107,
+<<<<<<< HEAD
+        "HashCode": -1294556815,
+=======
+        "HashCode": -1551924319,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -198,7 +210,11 @@
         }
       },
       {
-        "HashCode": 1384414911,
+<<<<<<< HEAD
+        "HashCode": -1519541259,
+=======
+        "HashCode": 1904602305,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -230,7 +246,11 @@
         }
       },
       {
-        "HashCode": 1511762070,
+<<<<<<< HEAD
+        "HashCode": -288956995,
+=======
+        "HashCode": -474780453,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -249,7 +269,11 @@
         }
       },
       {
-        "HashCode": -1143910649,
+<<<<<<< HEAD
+        "HashCode": 642709617,
+=======
+        "HashCode": 1865091548,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -269,7 +293,11 @@
         }
       },
       {
-        "HashCode": -825166765,
+<<<<<<< HEAD
+        "HashCode": 1059968848,
+=======
+        "HashCode": -1910468564,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -365,7 +393,11 @@
         }
       },
       {
-        "HashCode": 1328755102,
+<<<<<<< HEAD
+        "HashCode": 32466679,
+=======
+        "HashCode": 1936711599,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -462,7 +494,11 @@
         }
       },
       {
-        "HashCode": -2089014632,
+<<<<<<< HEAD
+        "HashCode": -1021418679,
+=======
+        "HashCode": 1495753404,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -493,7 +529,11 @@
         }
       },
       {
-        "HashCode": -2019809900,
+<<<<<<< HEAD
+        "HashCode": 1022810606,
+=======
+        "HashCode": -1158783909,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -525,7 +565,11 @@
         }
       },
       {
-        "HashCode": 2079085826,
+<<<<<<< HEAD
+        "HashCode": 1192063390,
+=======
+        "HashCode": -554986145,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -556,7 +600,11 @@
         }
       },
       {
-        "HashCode": -1348386230,
+<<<<<<< HEAD
+        "HashCode": 1643334475,
+=======
+        "HashCode": 64439184,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -588,7 +636,11 @@
         }
       },
       {
-        "HashCode": 1777043636,
+<<<<<<< HEAD
+        "HashCode": 398173668,
+=======
+        "HashCode": -1214217418,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -619,7 +671,11 @@
         }
       },
       {
-        "HashCode": -605454627,
+<<<<<<< HEAD
+        "HashCode": -1610682206,
+=======
+        "HashCode": -1644003243,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -651,7 +707,11 @@
         }
       },
       {
-        "HashCode": 95932538,
+<<<<<<< HEAD
+        "HashCode": -286278061,
+=======
+        "HashCode": 2090463885,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -670,7 +730,11 @@
         }
       },
       {
-        "HashCode": 1029592339,
+<<<<<<< HEAD
+        "HashCode": 1309642487,
+=======
+        "HashCode": -1044032995,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -690,7 +754,11 @@
         }
       },
       {
-        "HashCode": 1802787508,
+<<<<<<< HEAD
+        "HashCode": -560430774,
+=======
+        "HashCode": -1921576327,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -718,7 +786,11 @@
         }
       },
       {
-        "HashCode": -1487258518,
+<<<<<<< HEAD
+        "HashCode": 311522230,
+=======
+        "HashCode": 1335615038,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -747,7 +819,11 @@
         }
       },
       {
-        "HashCode": -1471746572,
+<<<<<<< HEAD
+        "HashCode": -54312903,
+=======
+        "HashCode": 1097630688,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -766,7 +842,11 @@
         }
       },
       {
-        "HashCode": 2096600204,
+<<<<<<< HEAD
+        "HashCode": -1452490702,
+=======
+        "HashCode": -1670408732,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -786,7 +866,11 @@
         }
       },
       {
-        "HashCode": -906637575,
+<<<<<<< HEAD
+        "HashCode": -1520998147,
+=======
+        "HashCode": -1843786080,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -855,7 +939,11 @@
         }
       },
       {
-        "HashCode": 990294547,
+<<<<<<< HEAD
+        "HashCode": 828339453,
+=======
+        "HashCode": -638278743,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -925,7 +1013,11 @@
         }
       },
       {
-        "HashCode": -1995046584,
+<<<<<<< HEAD
+        "HashCode": 1198851129,
+=======
+        "HashCode": 2048196318,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -944,7 +1036,11 @@
         }
       },
       {
-        "HashCode": 1933500237,
+<<<<<<< HEAD
+        "HashCode": -296941421,
+=======
+        "HashCode": -994209656,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -964,7 +1060,11 @@
         }
       },
       {
-        "HashCode": -1880804798,
+<<<<<<< HEAD
+        "HashCode": -1047514014,
+=======
+        "HashCode": 1444938166,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1002,7 +1102,11 @@
         }
       },
       {
-        "HashCode": 652382491,
+<<<<<<< HEAD
+        "HashCode": 1110558289,
+=======
+        "HashCode": 145544392,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1041,7 +1145,11 @@
         }
       },
       {
-        "HashCode": -98295064,
+<<<<<<< HEAD
+        "HashCode": 976567677,
+=======
+        "HashCode": 982148055,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1079,7 +1187,11 @@
         }
       },
       {
-        "HashCode": -1909487848,
+<<<<<<< HEAD
+        "HashCode": 297485834,
+=======
+        "HashCode": 367728974,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1118,7 +1230,11 @@
         }
       },
       {
-        "HashCode": -326602096,
+<<<<<<< HEAD
+        "HashCode": 2023136216,
+=======
+        "HashCode": 232232463,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1137,7 +1253,11 @@
         }
       },
       {
-        "HashCode": -831903449,
+<<<<<<< HEAD
+        "HashCode": 332923813,
+=======
+        "HashCode": 856227914,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1157,7 +1277,11 @@
         }
       },
       {
-        "HashCode": -2030579689,
+<<<<<<< HEAD
+        "HashCode": -1356712493,
+=======
+        "HashCode": -1603135193,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1195,7 +1319,11 @@
         }
       },
       {
-        "HashCode": -906415725,
+<<<<<<< HEAD
+        "HashCode": -431602130,
+=======
+        "HashCode": 272477841,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1234,7 +1362,11 @@
         }
       },
       {
-        "HashCode": -188068733,
+<<<<<<< HEAD
+        "HashCode": -893287978,
+=======
+        "HashCode": -395037085,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1333,7 +1465,11 @@
         }
       },
       {
-        "HashCode": 648816769,
+<<<<<<< HEAD
+        "HashCode": -851410160,
+=======
+        "HashCode": -1551079583,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1433,7 +1569,11 @@
         }
       },
       {
-        "HashCode": 719605506,
+<<<<<<< HEAD
+        "HashCode": -2112673631,
+=======
+        "HashCode": 1555878369,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1452,7 +1592,11 @@
         }
       },
       {
-        "HashCode": -1877102646,
+<<<<<<< HEAD
+        "HashCode": 1123149241,
+=======
+        "HashCode": -301006891,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1472,7 +1616,11 @@
         }
       },
       {
-        "HashCode": 739367299,
+<<<<<<< HEAD
+        "HashCode": 2128933677,
+=======
+        "HashCode": 1655987317,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1503,7 +1651,11 @@
         }
       },
       {
-        "HashCode": -125868517,
+<<<<<<< HEAD
+        "HashCode": 169099571,
+=======
+        "HashCode": 1247072342,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1535,7 +1687,11 @@
         }
       },
       {
-        "HashCode": 223380232,
+<<<<<<< HEAD
+        "HashCode": -1934628222,
+=======
+        "HashCode": -278504412,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1554,7 +1710,11 @@
         }
       },
       {
-        "HashCode": -138490012,
+<<<<<<< HEAD
+        "HashCode": 1586072461,
+=======
+        "HashCode": 966355969,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1574,7 +1734,11 @@
         }
       },
       {
-        "HashCode": -2055186798,
+<<<<<<< HEAD
+        "HashCode": 1093808124,
+=======
+        "HashCode": 1433622066,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1591,7 +1755,11 @@
         }
       },
       {
-        "HashCode": 273534810,
+<<<<<<< HEAD
+        "HashCode": 1278309044,
+=======
+        "HashCode": -1398567588,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1609,7 +1777,11 @@
         }
       },
       {
-        "HashCode": 443321780,
+<<<<<<< HEAD
+        "HashCode": -1796400454,
+=======
+        "HashCode": -1949361913,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1705,7 +1877,11 @@
         }
       },
       {
-        "HashCode": 586119480,
+<<<<<<< HEAD
+        "HashCode": 188769769,
+=======
+        "HashCode": -1688178670,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1802,7 +1978,11 @@
         }
       },
       {
-        "HashCode": 467022572,
+<<<<<<< HEAD
+        "HashCode": -1753432298,
+=======
+        "HashCode": 15861576,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1833,7 +2013,11 @@
         }
       },
       {
-        "HashCode": 1589743669,
+<<<<<<< HEAD
+        "HashCode": -316335051,
+=======
+        "HashCode": 1692507419,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1865,7 +2049,11 @@
         }
       },
       {
-        "HashCode": 1519216171,
+<<<<<<< HEAD
+        "HashCode": 492876305,
+=======
+        "HashCode": 676421708,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1930,7 +2118,11 @@
         }
       },
       {
-        "HashCode": -1789834480,
+<<<<<<< HEAD
+        "HashCode": 415380715,
+=======
+        "HashCode": 1973655064,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1996,7 +2188,11 @@
         }
       },
       {
-        "HashCode": 1158750971,
+<<<<<<< HEAD
+        "HashCode": 106143456,
+=======
+        "HashCode": 1153899575,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2095,7 +2291,11 @@
         }
       },
       {
-        "HashCode": -1198267301,
+<<<<<<< HEAD
+        "HashCode": -150245247,
+=======
+        "HashCode": -1209760473,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2195,7 +2395,11 @@
         }
       },
       {
-        "HashCode": 191504508,
+<<<<<<< HEAD
+        "HashCode": -1992730150,
+=======
+        "HashCode": -1401144304,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2233,7 +2437,11 @@
         }
       },
       {
-        "HashCode": 1956420706,
+<<<<<<< HEAD
+        "HashCode": 283268346,
+=======
+        "HashCode": 2024487124,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2272,7 +2480,11 @@
         }
       },
       {
-        "HashCode": -1443507266,
+<<<<<<< HEAD
+        "HashCode": 628570436,
+=======
+        "HashCode": 326322977,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2361,7 +2573,11 @@
         }
       },
       {
-        "HashCode": -1444642973,
+<<<<<<< HEAD
+        "HashCode": -7522864,
+=======
+        "HashCode": -1242260999,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2451,7 +2667,11 @@
         }
       },
       {
-        "HashCode": 1122436149,
+<<<<<<< HEAD
+        "HashCode": -40710512,
+=======
+        "HashCode": -2035164683,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2510,7 +2730,11 @@
         }
       },
       {
-        "HashCode": -640848767,
+<<<<<<< HEAD
+        "HashCode": 827210475,
+=======
+        "HashCode": 366464825,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2570,7 +2794,11 @@
         }
       },
       {
-        "HashCode": 1044029673,
+<<<<<<< HEAD
+        "HashCode": -2008987389,
+=======
+        "HashCode": 635388305,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2669,7 +2897,11 @@
         }
       },
       {
-        "HashCode": 1484315598,
+<<<<<<< HEAD
+        "HashCode": -1603288684,
+=======
+        "HashCode": -1399382616,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2769,7 +3001,11 @@
         }
       },
       {
-        "HashCode": 1151549857,
+<<<<<<< HEAD
+        "HashCode": 1275910077,
+=======
+        "HashCode": 611158866,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2788,7 +3024,11 @@
         }
       },
       {
-        "HashCode": -1938113622,
+<<<<<<< HEAD
+        "HashCode": -1196205728,
+=======
+        "HashCode": 55861479,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2808,7 +3048,11 @@
         }
       },
       {
-        "HashCode": -1620452462,
+<<<<<<< HEAD
+        "HashCode": -1313073667,
+=======
+        "HashCode": 599271454,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2898,7 +3142,11 @@
         }
       },
       {
-        "HashCode": -2119633773,
+<<<<<<< HEAD
+        "HashCode": -1297788565,
+=======
+        "HashCode": 2113981583,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2989,7 +3237,11 @@
         }
       },
       {
-        "HashCode": -918762346,
+<<<<<<< HEAD
+        "HashCode": 1132866899,
+=======
+        "HashCode": 1158345250,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3008,7 +3260,11 @@
         }
       },
       {
-        "HashCode": -929122591,
+<<<<<<< HEAD
+        "HashCode": 2100946195,
+=======
+        "HashCode": -1476082665,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3028,7 +3284,11 @@
         }
       },
       {
-        "HashCode": 1992692235,
+<<<<<<< HEAD
+        "HashCode": 1174492053,
+=======
+        "HashCode": 1523126933,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3093,7 +3353,11 @@
         }
       },
       {
-        "HashCode": 1825952599,
+<<<<<<< HEAD
+        "HashCode": -917540446,
+=======
+        "HashCode": 1811301553,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3159,7 +3423,11 @@
         }
       },
       {
-        "HashCode": -1601204951,
+<<<<<<< HEAD
+        "HashCode": -1012421699,
+=======
+        "HashCode": 480550837,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3224,7 +3492,11 @@
         }
       },
       {
-        "HashCode": 890139276,
+<<<<<<< HEAD
+        "HashCode": 1401720926,
+=======
+        "HashCode": -591784964,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3290,7 +3562,11 @@
         }
       },
       {
-        "HashCode": -391253016,
+<<<<<<< HEAD
+        "HashCode": 135835990,
+=======
+        "HashCode": -2107220404,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3340,7 +3616,11 @@
         }
       },
       {
-        "HashCode": 1057042993,
+<<<<<<< HEAD
+        "HashCode": -440126705,
+=======
+        "HashCode": 1973583265,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3391,7 +3671,11 @@
         }
       },
       {
-        "HashCode": 1136383581,
+<<<<<<< HEAD
+        "HashCode": -1826398674,
+=======
+        "HashCode": -908084977,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3428,7 +3712,11 @@
         }
       },
       {
-        "HashCode": -1495068990,
+<<<<<<< HEAD
+        "HashCode": 1070350905,
+=======
+        "HashCode": 1938171682,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3466,7 +3754,11 @@
         }
       },
       {
-        "HashCode": -1789339938,
+<<<<<<< HEAD
+        "HashCode": 1707232355,
+=======
+        "HashCode": 779662902,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3503,7 +3795,11 @@
         }
       },
       {
-        "HashCode": -864144540,
+<<<<<<< HEAD
+        "HashCode": 978963670,
+=======
+        "HashCode": -577900090,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3541,7 +3837,11 @@
         }
       },
       {
-        "HashCode": -507582038,
+<<<<<<< HEAD
+        "HashCode": 769164637,
+=======
+        "HashCode": -907022057,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3598,7 +3898,11 @@
         }
       },
       {
-        "HashCode": 709473583,
+<<<<<<< HEAD
+        "HashCode": -1442364483,
+=======
+        "HashCode": -2010854900,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3656,7 +3960,11 @@
         }
       },
       {
-        "HashCode": -1746122452,
+<<<<<<< HEAD
+        "HashCode": 1972370220,
+=======
+        "HashCode": -641318069,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3675,7 +3983,11 @@
         }
       },
       {
-        "HashCode": 1763069991,
+<<<<<<< HEAD
+        "HashCode": -893850771,
+=======
+        "HashCode": -1448587112,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3695,7 +4007,11 @@
         }
       },
       {
-        "HashCode": -719641035,
+<<<<<<< HEAD
+        "HashCode": -1257718054,
+=======
+        "HashCode": -446544111,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3724,7 +4040,11 @@
         }
       },
       {
-        "HashCode": 680268678,
+<<<<<<< HEAD
+        "HashCode": 321912321,
+=======
+        "HashCode": 1279900345,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3754,7 +4074,11 @@
         }
       },
       {
-        "HashCode": -24238844,
+<<<<<<< HEAD
+        "HashCode": 1178483233,
+=======
+        "HashCode": 567018791,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3773,7 +4097,11 @@
         }
       },
       {
-        "HashCode": 76664685,
+<<<<<<< HEAD
+        "HashCode": -1634136831,
+=======
+        "HashCode": -1887215086,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3793,7 +4121,11 @@
         }
       },
       {
-        "HashCode": 528795175,
+<<<<<<< HEAD
+        "HashCode": -90061874,
+=======
+        "HashCode": -1477254064,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3810,7 +4142,11 @@
         }
       },
       {
-        "HashCode": -228376935,
+<<<<<<< HEAD
+        "HashCode": 2144792310,
+=======
+        "HashCode": -1894328508,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3828,7 +4164,11 @@
         }
       },
       {
-        "HashCode": -1771945859,
+<<<<<<< HEAD
+        "HashCode": -1614587346,
+=======
+        "HashCode": -889898995,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3857,7 +4197,11 @@
         }
       },
       {
-        "HashCode": 980957720,
+<<<<<<< HEAD
+        "HashCode": 518608278,
+=======
+        "HashCode": 27592015,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3887,7 +4231,11 @@
         }
       },
       {
-        "HashCode": -1679714774,
+<<<<<<< HEAD
+        "HashCode": 60158422,
+=======
+        "HashCode": -1040078064,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3906,7 +4254,11 @@
         }
       },
       {
-        "HashCode": 1042084414,
+<<<<<<< HEAD
+        "HashCode": -1941140722,
+=======
+        "HashCode": -2005339585,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3926,7 +4278,11 @@
         }
       },
       {
-        "HashCode": 499486755,
+<<<<<<< HEAD
+        "HashCode": -31173509,
+=======
+        "HashCode": 1727982600,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3984,7 +4340,11 @@
         }
       },
       {
-        "HashCode": 778068047,
+<<<<<<< HEAD
+        "HashCode": 407279931,
+=======
+        "HashCode": 1476984454,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4043,7 +4403,11 @@
         }
       },
       {
-        "HashCode": -1496669608,
+<<<<<<< HEAD
+        "HashCode": 985202316,
+=======
+        "HashCode": 272859371,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4062,7 +4426,11 @@
         }
       },
       {
-        "HashCode": -456797501,
+<<<<<<< HEAD
+        "HashCode": -1961718552,
+=======
+        "HashCode": 2060929274,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4082,7 +4450,11 @@
         }
       },
       {
-        "HashCode": 1857273021,
+<<<<<<< HEAD
+        "HashCode": -373222741,
+=======
+        "HashCode": -149328119,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4113,7 +4485,11 @@
         }
       },
       {
-        "HashCode": 1522459806,
+<<<<<<< HEAD
+        "HashCode": -427546670,
+=======
+        "HashCode": 95000140,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4145,7 +4521,11 @@
         }
       },
       {
-        "HashCode": -750279684,
+<<<<<<< HEAD
+        "HashCode": -1038154656,
+=======
+        "HashCode": -1632475389,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4257,7 +4637,11 @@
         }
       },
       {
-        "HashCode": 1108464729,
+<<<<<<< HEAD
+        "HashCode": -926943047,
+=======
+        "HashCode": -231417270,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4370,7 +4754,11 @@
         }
       },
       {
-        "HashCode": -1493674531,
+<<<<<<< HEAD
+        "HashCode": -2141871454,
+=======
+        "HashCode": -2047277308,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4401,7 +4789,11 @@
         }
       },
       {
-        "HashCode": 423024006,
+<<<<<<< HEAD
+        "HashCode": 331906671,
+=======
+        "HashCode": 1353071044,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4433,7 +4825,11 @@
         }
       },
       {
-        "HashCode": 792640533,
+<<<<<<< HEAD
+        "HashCode": 1598566866,
+=======
+        "HashCode": 1561341725,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4464,7 +4860,11 @@
         }
       },
       {
-        "HashCode": 1906827935,
+<<<<<<< HEAD
+        "HashCode": 286904808,
+=======
+        "HashCode": 1883556437,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4496,7 +4896,11 @@
         }
       },
       {
-        "HashCode": -1247138773,
+<<<<<<< HEAD
+        "HashCode": -1760984990,
+=======
+        "HashCode": 1136347464,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4527,7 +4931,11 @@
         }
       },
       {
-        "HashCode": -1471987827,
+<<<<<<< HEAD
+        "HashCode": 561609854,
+=======
+        "HashCode": 330287783,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4559,7 +4967,11 @@
         }
       },
       {
-        "HashCode": 1290993040,
+<<<<<<< HEAD
+        "HashCode": -1103914875,
+=======
+        "HashCode": 1808859880,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4640,7 +5052,11 @@
         }
       },
       {
-        "HashCode": 942542835,
+<<<<<<< HEAD
+        "HashCode": -1827338782,
+=======
+        "HashCode": -1820377788,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4721,7 +5137,11 @@
         }
       },
       {
-        "HashCode": 677881681,
+<<<<<<< HEAD
+        "HashCode": -1494732424,
+=======
+        "HashCode": -701449931,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4802,7 +5222,11 @@
         }
       },
       {
-        "HashCode": 1014028692,
+<<<<<<< HEAD
+        "HashCode": 298141582,
+=======
+        "HashCode": -257732474,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4883,7 +5307,11 @@
         }
       },
       {
-        "HashCode": 2010220965,
+<<<<<<< HEAD
+        "HashCode": -661380396,
+=======
+        "HashCode": -272468623,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -4964,7 +5392,11 @@
         }
       },
       {
-        "HashCode": -1923357587,
+<<<<<<< HEAD
+        "HashCode": 852720585,
+=======
+        "HashCode": -844303588,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5045,7 +5477,11 @@
         }
       },
       {
-        "HashCode": 2041197552,
+<<<<<<< HEAD
+        "HashCode": -1084795780,
+=======
+        "HashCode": -423453732,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5126,7 +5562,11 @@
         }
       },
       {
-        "HashCode": -1926432791,
+<<<<<<< HEAD
+        "HashCode": -420459868,
+=======
+        "HashCode": 1339428016,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5207,7 +5647,11 @@
         }
       },
       {
-        "HashCode": -40532273,
+<<<<<<< HEAD
+        "HashCode": -1832725874,
+=======
+        "HashCode": -1403644210,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5288,7 +5732,11 @@
         }
       },
       {
-        "HashCode": 804552277,
+<<<<<<< HEAD
+        "HashCode": -226075983,
+=======
+        "HashCode": 611106682,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5369,7 +5817,11 @@
         }
       },
       {
-        "HashCode": 492695710,
+<<<<<<< HEAD
+        "HashCode": 1601977646,
+=======
+        "HashCode": -234369771,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5450,7 +5902,11 @@
         }
       },
       {
-        "HashCode": 710872107,
+<<<<<<< HEAD
+        "HashCode": 738443016,
+=======
+        "HashCode": -919379357,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5531,7 +5987,11 @@
         }
       },
       {
-        "HashCode": -2099260606,
+<<<<<<< HEAD
+        "HashCode": -1695913359,
+=======
+        "HashCode": 1158606334,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5612,7 +6072,11 @@
         }
       },
       {
-        "HashCode": -2111182081,
+<<<<<<< HEAD
+        "HashCode": 1802684533,
+=======
+        "HashCode": -1043680732,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5693,7 +6157,11 @@
         }
       },
       {
-        "HashCode": 1660800680,
+<<<<<<< HEAD
+        "HashCode": -2102387961,
+=======
+        "HashCode": -990449251,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5774,7 +6242,11 @@
         }
       },
       {
-        "HashCode": 1526977930,
+<<<<<<< HEAD
+        "HashCode": 1967724929,
+=======
+        "HashCode": -83687950,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5855,7 +6327,11 @@
         }
       },
       {
-        "HashCode": 1476052177,
+<<<<<<< HEAD
+        "HashCode": -435040895,
+=======
+        "HashCode": 1228847023,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5936,7 +6412,11 @@
         }
       },
       {
-        "HashCode": -630720438,
+<<<<<<< HEAD
+        "HashCode": -1133020233,
+=======
+        "HashCode": 1023627412,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6017,7 +6497,11 @@
         }
       },
       {
-        "HashCode": -1063687679,
+<<<<<<< HEAD
+        "HashCode": -1064637351,
+=======
+        "HashCode": 1960320793,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6098,7 +6582,11 @@
         }
       },
       {
-        "HashCode": -960754926,
+<<<<<<< HEAD
+        "HashCode": -1950973028,
+=======
+        "HashCode": 1435229946,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6179,7 +6667,11 @@
         }
       },
       {
-        "HashCode": -2005792897,
+<<<<<<< HEAD
+        "HashCode": 1544248985,
+=======
+        "HashCode": 322733049,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6260,7 +6752,11 @@
         }
       },
       {
-        "HashCode": -843928875,
+<<<<<<< HEAD
+        "HashCode": -597180221,
+=======
+        "HashCode": 308103036,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6341,7 +6837,11 @@
         }
       },
       {
-        "HashCode": -1852199160,
+<<<<<<< HEAD
+        "HashCode": -1203686507,
+=======
+        "HashCode": -1100698760,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6422,7 +6922,11 @@
         }
       },
       {
-        "HashCode": -184578049,
+<<<<<<< HEAD
+        "HashCode": -960900611,
+=======
+        "HashCode": -1415292603,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6503,7 +7007,11 @@
         }
       },
       {
-        "HashCode": -819444410,
+<<<<<<< HEAD
+        "HashCode": -674192944,
+=======
+        "HashCode": 1801039795,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6584,7 +7092,11 @@
         }
       },
       {
-        "HashCode": -1964629812,
+<<<<<<< HEAD
+        "HashCode": 1507731919,
+=======
+        "HashCode": 1551618399,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6665,7 +7177,11 @@
         }
       },
       {
-        "HashCode": 2026330529,
+<<<<<<< HEAD
+        "HashCode": -915268210,
+=======
+        "HashCode": -1568486718,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6746,7 +7262,11 @@
         }
       },
       {
-        "HashCode": -1579564477,
+<<<<<<< HEAD
+        "HashCode": -876989692,
+=======
+        "HashCode": -1848585329,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6827,7 +7347,11 @@
         }
       },
       {
-        "HashCode": -1659503405,
+<<<<<<< HEAD
+        "HashCode": -437060162,
+=======
+        "HashCode": 820032833,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6908,7 +7432,11 @@
         }
       },
       {
-        "HashCode": 1756756427,
+<<<<<<< HEAD
+        "HashCode": -1545163364,
+=======
+        "HashCode": 798608554,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6989,7 +7517,11 @@
         }
       },
       {
-        "HashCode": 702343861,
+<<<<<<< HEAD
+        "HashCode": -1646044290,
+=======
+        "HashCode": -535340498,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7070,7 +7602,11 @@
         }
       },
       {
-        "HashCode": 908214300,
+<<<<<<< HEAD
+        "HashCode": 1849303389,
+=======
+        "HashCode": -1124739241,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7151,7 +7687,11 @@
         }
       },
       {
-        "HashCode": -296809364,
+<<<<<<< HEAD
+        "HashCode": 872311674,
+=======
+        "HashCode": 820414978,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7232,7 +7772,11 @@
         }
       },
       {
-        "HashCode": -492318906,
+<<<<<<< HEAD
+        "HashCode": 772317558,
+=======
+        "HashCode": 1294936357,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7313,7 +7857,11 @@
         }
       },
       {
-        "HashCode": -906358418,
+<<<<<<< HEAD
+        "HashCode": 1956667468,
+=======
+        "HashCode": -1750952760,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7394,7 +7942,11 @@
         }
       },
       {
-        "HashCode": -842787650,
+<<<<<<< HEAD
+        "HashCode": 689550809,
+=======
+        "HashCode": -957163543,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7475,7 +8027,11 @@
         }
       },
       {
-        "HashCode": 829257342,
+<<<<<<< HEAD
+        "HashCode": 1492976905,
+=======
+        "HashCode": 631484691,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7556,7 +8112,11 @@
         }
       },
       {
-        "HashCode": 194023505,
+<<<<<<< HEAD
+        "HashCode": -319794530,
+=======
+        "HashCode": -1408580159,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7637,7 +8197,11 @@
         }
       },
       {
-        "HashCode": 872927553,
+<<<<<<< HEAD
+        "HashCode": -1776560815,
+=======
+        "HashCode": 668595390,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7718,7 +8282,11 @@
         }
       },
       {
-        "HashCode": 1906051582,
+<<<<<<< HEAD
+        "HashCode": -1935856542,
+=======
+        "HashCode": 2077070919,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7799,7 +8367,11 @@
         }
       },
       {
-        "HashCode": 640308643,
+<<<<<<< HEAD
+        "HashCode": -2105771860,
+=======
+        "HashCode": -1550582664,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7880,7 +8452,11 @@
         }
       },
       {
-        "HashCode": -1295935438,
+<<<<<<< HEAD
+        "HashCode": -1208706058,
+=======
+        "HashCode": 621721002,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7961,7 +8537,11 @@
         }
       },
       {
-        "HashCode": -989747310,
+<<<<<<< HEAD
+        "HashCode": -144190526,
+=======
+        "HashCode": -1165961151,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8042,7 +8622,11 @@
         }
       },
       {
-        "HashCode": -130286152,
+<<<<<<< HEAD
+        "HashCode": -1975455650,
+=======
+        "HashCode": 340382626,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8123,7 +8707,11 @@
         }
       },
       {
-        "HashCode": 916986187,
+<<<<<<< HEAD
+        "HashCode": -1199646063,
+=======
+        "HashCode": 82018928,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8204,7 +8792,11 @@
         }
       },
       {
-        "HashCode": -936476446,
+<<<<<<< HEAD
+        "HashCode": 1047344971,
+=======
+        "HashCode": 1661890756,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8285,7 +8877,11 @@
         }
       },
       {
-        "HashCode": 1354287088,
+<<<<<<< HEAD
+        "HashCode": 774865089,
+=======
+        "HashCode": 1792752054,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8366,7 +8962,11 @@
         }
       },
       {
-        "HashCode": -513542872,
+<<<<<<< HEAD
+        "HashCode": 1813438469,
+=======
+        "HashCode": -203763712,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8447,7 +9047,11 @@
         }
       },
       {
-        "HashCode": -1637288835,
+<<<<<<< HEAD
+        "HashCode": 808486131,
+=======
+        "HashCode": -682631067,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8528,7 +9132,11 @@
         }
       },
       {
-        "HashCode": -1583049069,
+<<<<<<< HEAD
+        "HashCode": 1611705333,
+=======
+        "HashCode": 1387167543,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8609,7 +9217,11 @@
         }
       },
       {
-        "HashCode": -205572129,
+<<<<<<< HEAD
+        "HashCode": -1314368899,
+=======
+        "HashCode": -816541292,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8690,7 +9302,11 @@
         }
       },
       {
-        "HashCode": 110258278,
+<<<<<<< HEAD
+        "HashCode": 1595834677,
+=======
+        "HashCode": 343698177,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8771,7 +9387,11 @@
         }
       },
       {
-        "HashCode": 71483067,
+<<<<<<< HEAD
+        "HashCode": -1678440654,
+=======
+        "HashCode": -636845514,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8852,7 +9472,11 @@
         }
       },
       {
-        "HashCode": -382872489,
+<<<<<<< HEAD
+        "HashCode": 430807200,
+=======
+        "HashCode": 285089524,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8933,7 +9557,11 @@
         }
       },
       {
-        "HashCode": 382751900,
+<<<<<<< HEAD
+        "HashCode": 2043939117,
+=======
+        "HashCode": 1317309688,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9014,7 +9642,11 @@
         }
       },
       {
-        "HashCode": -1890531854,
+<<<<<<< HEAD
+        "HashCode": -1544067486,
+=======
+        "HashCode": 2090076194,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9095,7 +9727,11 @@
         }
       },
       {
-        "HashCode": 2018129588,
+<<<<<<< HEAD
+        "HashCode": 1229603895,
+=======
+        "HashCode": 739081465,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9176,7 +9812,11 @@
         }
       },
       {
-        "HashCode": 373954922,
+<<<<<<< HEAD
+        "HashCode": 217773313,
+=======
+        "HashCode": 1129691379,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9257,7 +9897,11 @@
         }
       },
       {
-        "HashCode": -1091674218,
+<<<<<<< HEAD
+        "HashCode": 83932924,
+=======
+        "HashCode": -468311986,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9338,7 +9982,11 @@
         }
       },
       {
-        "HashCode": 302542583,
+<<<<<<< HEAD
+        "HashCode": -896741361,
+=======
+        "HashCode": -1110621470,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9419,7 +10067,11 @@
         }
       },
       {
-        "HashCode": -1929404383,
+<<<<<<< HEAD
+        "HashCode": 2140650671,
+=======
+        "HashCode": 876765154,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9500,7 +10152,11 @@
         }
       },
       {
-        "HashCode": 1074999141,
+<<<<<<< HEAD
+        "HashCode": 1889995102,
+=======
+        "HashCode": 1757702791,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9581,7 +10237,11 @@
         }
       },
       {
-        "HashCode": 478341654,
+<<<<<<< HEAD
+        "HashCode": 497053647,
+=======
+        "HashCode": 1922404229,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9662,7 +10322,11 @@
         }
       },
       {
-        "HashCode": 1242361042,
+<<<<<<< HEAD
+        "HashCode": 1950367373,
+=======
+        "HashCode": -1526361535,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9743,7 +10407,11 @@
         }
       },
       {
-        "HashCode": 1177676619,
+<<<<<<< HEAD
+        "HashCode": -2105050370,
+=======
+        "HashCode": 548581779,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9824,7 +10492,11 @@
         }
       },
       {
-        "HashCode": -1689052464,
+<<<<<<< HEAD
+        "HashCode": -1893138943,
+=======
+        "HashCode": 709766018,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9905,7 +10577,11 @@
         }
       },
       {
-        "HashCode": 2042329130,
+<<<<<<< HEAD
+        "HashCode": 1538956794,
+=======
+        "HashCode": 2000398690,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9986,7 +10662,11 @@
         }
       },
       {
-        "HashCode": 1942067228,
+<<<<<<< HEAD
+        "HashCode": 1045219355,
+=======
+        "HashCode": 1343883025,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10067,7 +10747,11 @@
         }
       },
       {
-        "HashCode": 1181790574,
+<<<<<<< HEAD
+        "HashCode": 964604186,
+=======
+        "HashCode": -1420220480,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10148,7 +10832,11 @@
         }
       },
       {
-        "HashCode": -158623287,
+<<<<<<< HEAD
+        "HashCode": 1920558173,
+=======
+        "HashCode": -880981430,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10229,7 +10917,11 @@
         }
       },
       {
-        "HashCode": -2027030319,
+<<<<<<< HEAD
+        "HashCode": -72631716,
+=======
+        "HashCode": 582624663,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10310,7 +11002,11 @@
         }
       },
       {
-        "HashCode": -1418316799,
+<<<<<<< HEAD
+        "HashCode": -1973463210,
+=======
+        "HashCode": 1177711742,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10391,7 +11087,11 @@
         }
       },
       {
-        "HashCode": -1860577238,
+<<<<<<< HEAD
+        "HashCode": -200625634,
+=======
+        "HashCode": -232695010,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10472,7 +11172,11 @@
         }
       },
       {
-        "HashCode": 246878108,
+<<<<<<< HEAD
+        "HashCode": 450079067,
+=======
+        "HashCode": -91590557,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10553,7 +11257,11 @@
         }
       },
       {
-        "HashCode": 729283542,
+<<<<<<< HEAD
+        "HashCode": 1914916188,
+=======
+        "HashCode": 1565253510,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10634,7 +11342,11 @@
         }
       },
       {
-        "HashCode": 1854752942,
+<<<<<<< HEAD
+        "HashCode": -1376727899,
+=======
+        "HashCode": -2002235204,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10715,7 +11427,11 @@
         }
       },
       {
-        "HashCode": -1102447167,
+<<<<<<< HEAD
+        "HashCode": 1588506750,
+=======
+        "HashCode": 166316708,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10796,7 +11512,11 @@
         }
       },
       {
-        "HashCode": -765526640,
+<<<<<<< HEAD
+        "HashCode": 540788242,
+=======
+        "HashCode": -1421353863,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10877,7 +11597,11 @@
         }
       },
       {
-        "HashCode": -1204291061,
+<<<<<<< HEAD
+        "HashCode": 860732291,
+=======
+        "HashCode": -98269987,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10958,7 +11682,11 @@
         }
       },
       {
-        "HashCode": -655593039,
+<<<<<<< HEAD
+        "HashCode": -158558181,
+=======
+        "HashCode": 1941268803,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11039,7 +11767,11 @@
         }
       },
       {
-        "HashCode": -802043587,
+<<<<<<< HEAD
+        "HashCode": 1723979373,
+=======
+        "HashCode": 1419418803,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11120,7 +11852,11 @@
         }
       },
       {
-        "HashCode": -2063309160,
+<<<<<<< HEAD
+        "HashCode": 351345814,
+=======
+        "HashCode": -2102348577,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11201,7 +11937,11 @@
         }
       },
       {
-        "HashCode": -1651394072,
+<<<<<<< HEAD
+        "HashCode": 1384073740,
+=======
+        "HashCode": -1082044814,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11282,7 +12022,11 @@
         }
       },
       {
-        "HashCode": -1684111777,
+<<<<<<< HEAD
+        "HashCode": -1045237972,
+=======
+        "HashCode": 972909052,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11363,7 +12107,11 @@
         }
       },
       {
-        "HashCode": -107364016,
+<<<<<<< HEAD
+        "HashCode": 1661277165,
+=======
+        "HashCode": -556667184,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11444,7 +12192,11 @@
         }
       },
       {
-        "HashCode": 1692156719,
+<<<<<<< HEAD
+        "HashCode": -316127758,
+=======
+        "HashCode": -836942973,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11525,7 +12277,11 @@
         }
       },
       {
-        "HashCode": -46794644,
+<<<<<<< HEAD
+        "HashCode": -847450766,
+=======
+        "HashCode": 1913505966,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11606,7 +12362,11 @@
         }
       },
       {
-        "HashCode": 1521364876,
+<<<<<<< HEAD
+        "HashCode": -35377237,
+=======
+        "HashCode": 428341756,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11687,7 +12447,11 @@
         }
       },
       {
-        "HashCode": -179412041,
+<<<<<<< HEAD
+        "HashCode": 1906275120,
+=======
+        "HashCode": 1806658535,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11768,7 +12532,11 @@
         }
       },
       {
-        "HashCode": 1876845523,
+<<<<<<< HEAD
+        "HashCode": 1306502701,
+=======
+        "HashCode": -637729110,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11849,7 +12617,11 @@
         }
       },
       {
-        "HashCode": 959649277,
+<<<<<<< HEAD
+        "HashCode": -503108516,
+=======
+        "HashCode": -1989675882,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11930,7 +12702,11 @@
         }
       },
       {
-        "HashCode": 1773379759,
+<<<<<<< HEAD
+        "HashCode": -1692681631,
+=======
+        "HashCode": -1181713776,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12011,7 +12787,11 @@
         }
       },
       {
-        "HashCode": -223978806,
+<<<<<<< HEAD
+        "HashCode": -1592328295,
+=======
+        "HashCode": 1136430655,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12050,7 +12830,11 @@
         }
       },
       {
-        "HashCode": 87645207,
+<<<<<<< HEAD
+        "HashCode": -539962166,
+=======
+        "HashCode": 894735654,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.Razor",
@@ -12365,7 +13149,11 @@
         }
       },
       {
-        "HashCode": -1896948202,
+<<<<<<< HEAD
+        "HashCode": 1535168278,
+=======
+        "HashCode": -1959434102,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -12562,7 +13350,11 @@
         }
       },
       {
-        "HashCode": -1834206555,
+<<<<<<< HEAD
+        "HashCode": -643337796,
+=======
+        "HashCode": 880561482,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -12689,7 +13481,11 @@
         }
       },
       {
-        "HashCode": 276628579,
+<<<<<<< HEAD
+        "HashCode": 209118688,
+=======
+        "HashCode": 501436979,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -12744,7 +13540,11 @@
         }
       },
       {
-        "HashCode": -1210600778,
+<<<<<<< HEAD
+        "HashCode": 210493878,
+=======
+        "HashCode": 1764672318,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -12876,7 +13676,11 @@
         }
       },
       {
-        "HashCode": -1287560029,
+<<<<<<< HEAD
+        "HashCode": -2093401817,
+=======
+        "HashCode": 854850983,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -12922,7 +13726,11 @@
         }
       },
       {
-        "HashCode": -1102387973,
+<<<<<<< HEAD
+        "HashCode": 621650962,
+=======
+        "HashCode": 1236782560,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13339,7 +14147,11 @@
         }
       },
       {
-        "HashCode": -120876629,
+<<<<<<< HEAD
+        "HashCode": 1081421300,
+=======
+        "HashCode": 2053083352,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13441,7 +14253,11 @@
         }
       },
       {
-        "HashCode": 2133318134,
+<<<<<<< HEAD
+        "HashCode": -878449815,
+=======
+        "HashCode": 1467387138,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13487,7 +14303,11 @@
         }
       },
       {
-        "HashCode": 1431208834,
+<<<<<<< HEAD
+        "HashCode": 1412159760,
+=======
+        "HashCode": 285350651,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13557,7 +14377,11 @@
         }
       },
       {
-        "HashCode": -1554367203,
+<<<<<<< HEAD
+        "HashCode": -95227161,
+=======
+        "HashCode": 389715884,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13590,7 +14414,11 @@
         }
       },
       {
-        "HashCode": 1316328363,
+<<<<<<< HEAD
+        "HashCode": -1675622252,
+=======
+        "HashCode": -82048536,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13786,7 +14614,11 @@
         }
       },
       {
-        "HashCode": 555757228,
+<<<<<<< HEAD
+        "HashCode": 352441884,
+=======
+        "HashCode": 1745220280,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13814,7 +14646,11 @@
         }
       },
       {
-        "HashCode": -1566173281,
+<<<<<<< HEAD
+        "HashCode": -286314152,
+=======
+        "HashCode": -68254105,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13895,7 +14731,11 @@
         }
       },
       {
-        "HashCode": 2100843812,
+<<<<<<< HEAD
+        "HashCode": 539195106,
+=======
+        "HashCode": -338608129,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PersistComponentStateTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13924,7 +14764,11 @@
         }
       },
       {
-        "HashCode": -1178674110,
+<<<<<<< HEAD
+        "HashCode": 503082487,
+=======
+        "HashCode": 1285704410,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14077,7 +14921,11 @@
         }
       },
       {
-        "HashCode": -727484808,
+<<<<<<< HEAD
+        "HashCode": -60159526,
+=======
+        "HashCode": 1348171949,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14136,7 +14984,11 @@
         }
       },
       {
-        "HashCode": -1670165452,
+<<<<<<< HEAD
+        "HashCode": 1431481334,
+=======
+        "HashCode": 862827034,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14178,7 +15030,11 @@
         }
       },
       {
-        "HashCode": 144122023,
+<<<<<<< HEAD
+        "HashCode": 460865050,
+=======
+        "HashCode": 916702825,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14211,7 +15067,11 @@
         }
       },
       {
-        "HashCode": -1626546586,
+<<<<<<< HEAD
+        "HashCode": 193806788,
+=======
+        "HashCode": 89911225,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14245,7 +15105,11 @@
         }
       },
       {
-        "HashCode": 1753946508,
+<<<<<<< HEAD
+        "HashCode": 1537949908,
+=======
+        "HashCode": -1740779851,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14314,7 +15178,11 @@
         }
       },
       {
-        "HashCode": -1905857638,
+<<<<<<< HEAD
+        "HashCode": -2029525318,
+=======
+        "HashCode": 1516898392,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14392,7 +15260,11 @@
         }
       },
       {
-        "HashCode": 857122123,
+<<<<<<< HEAD
+        "HashCode": 1553151851,
+=======
+        "HashCode": 506048146,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14470,7 +15342,11 @@
         }
       },
       {
-        "HashCode": 931931749,
+<<<<<<< HEAD
+        "HashCode": 586125292,
+=======
+        "HashCode": 124499880,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14554,7 +15430,11 @@
         }
       },
       {
-        "HashCode": -1777231245,
+<<<<<<< HEAD
+        "HashCode": -1771753074,
+=======
+        "HashCode": 1001719761,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14638,7 +15518,11 @@
         }
       },
       {
-        "HashCode": -942562771,
+<<<<<<< HEAD
+        "HashCode": -683782194,
+=======
+        "HashCode": -412124308,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14722,7 +15606,11 @@
         }
       },
       {
-        "HashCode": 1265571455,
+<<<<<<< HEAD
+        "HashCode": -1265833110,
+=======
+        "HashCode": 526441742,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14806,7 +15694,11 @@
         }
       },
       {
-        "HashCode": -719563827,
+<<<<<<< HEAD
+        "HashCode": 1662116593,
+=======
+        "HashCode": -356575794,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14890,7 +15782,11 @@
         }
       },
       {
-        "HashCode": -1916616447,
+<<<<<<< HEAD
+        "HashCode": -53124865,
+=======
+        "HashCode": -1759428908,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14974,7 +15870,11 @@
         }
       },
       {
-        "HashCode": 2011026824,
+<<<<<<< HEAD
+        "HashCode": 314278921,
+=======
+        "HashCode": -1411394184,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15058,7 +15958,11 @@
         }
       },
       {
-        "HashCode": -339333307,
+<<<<<<< HEAD
+        "HashCode": 1101510917,
+=======
+        "HashCode": -419509491,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15142,7 +16046,11 @@
         }
       },
       {
-        "HashCode": -1821587859,
+<<<<<<< HEAD
+        "HashCode": -1979986860,
+=======
+        "HashCode": -2057254566,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15226,7 +16134,11 @@
         }
       },
       {
-        "HashCode": -927153242,
+<<<<<<< HEAD
+        "HashCode": -2004334989,
+=======
+        "HashCode": 1604452004,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15310,7 +16222,11 @@
         }
       },
       {
-        "HashCode": -1140589007,
+<<<<<<< HEAD
+        "HashCode": -425248681,
+=======
+        "HashCode": 1701947479,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15394,7 +16310,11 @@
         }
       },
       {
-        "HashCode": -951253926,
+<<<<<<< HEAD
+        "HashCode": -405821216,
+=======
+        "HashCode": -453769127,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15478,7 +16398,11 @@
         }
       },
       {
-        "HashCode": 2015166480,
+<<<<<<< HEAD
+        "HashCode": -1527927342,
+=======
+        "HashCode": 1119906100,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15556,7 +16480,11 @@
         }
       },
       {
-        "HashCode": -108908353,
+<<<<<<< HEAD
+        "HashCode": -1415733554,
+=======
+        "HashCode": -970492155,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15634,7 +16562,11 @@
         }
       },
       {
-        "HashCode": 180070001,
+<<<<<<< HEAD
+        "HashCode": 1627955020,
+=======
+        "HashCode": -255884051,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15675,7 +16607,11 @@
         }
       },
       {
-        "HashCode": 1702854522,
+<<<<<<< HEAD
+        "HashCode": 1284112852,
+=======
+        "HashCode": 866326902,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15717,7 +16653,11 @@
         }
       },
       {
-        "HashCode": -460556112,
+<<<<<<< HEAD
+        "HashCode": 1111352610,
+=======
+        "HashCode": 804741539,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15758,7 +16698,11 @@
         }
       },
       {
-        "HashCode": -484729634,
+<<<<<<< HEAD
+        "HashCode": -601381139,
+=======
+        "HashCode": 1235559378,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15800,7 +16744,11 @@
         }
       },
       {
-        "HashCode": 1420128721,
+<<<<<<< HEAD
+        "HashCode": 407099198,
+=======
+        "HashCode": 1867977086,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15841,7 +16789,11 @@
         }
       },
       {
-        "HashCode": -2025916075,
+<<<<<<< HEAD
+        "HashCode": -1607685225,
+=======
+        "HashCode": 1607493872,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15883,7 +16835,11 @@
         }
       },
       {
-        "HashCode": 2099846600,
+<<<<<<< HEAD
+        "HashCode": -2048611054,
+=======
+        "HashCode": -1339574613,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15924,7 +16880,11 @@
         }
       },
       {
-        "HashCode": 431440514,
+<<<<<<< HEAD
+        "HashCode": 1176598171,
+=======
+        "HashCode": -1762962581,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15966,7 +16926,11 @@
         }
       },
       {
-        "HashCode": -865769082,
+<<<<<<< HEAD
+        "HashCode": 150010473,
+=======
+        "HashCode": -1816141064,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16007,7 +16971,11 @@
         }
       },
       {
-        "HashCode": 1204653640,
+<<<<<<< HEAD
+        "HashCode": -1237422190,
+=======
+        "HashCode": 1662217781,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16049,7 +17017,11 @@
         }
       },
       {
-        "HashCode": 1011594552,
+<<<<<<< HEAD
+        "HashCode": 1451867129,
+=======
+        "HashCode": -1657397075,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16090,7 +17062,11 @@
         }
       },
       {
-        "HashCode": 1829829328,
+<<<<<<< HEAD
+        "HashCode": -1097195046,
+=======
+        "HashCode": -288196975,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16132,7 +17108,11 @@
         }
       },
       {
-        "HashCode": 287296764,
+<<<<<<< HEAD
+        "HashCode": -403840440,
+=======
+        "HashCode": 252017957,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16173,7 +17153,11 @@
         }
       },
       {
-        "HashCode": 2079724186,
+<<<<<<< HEAD
+        "HashCode": -959124705,
+=======
+        "HashCode": -770310620,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16215,7 +17199,11 @@
         }
       },
       {
-        "HashCode": 1861330524,
+<<<<<<< HEAD
+        "HashCode": -690267071,
+=======
+        "HashCode": 346484241,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16254,7 +17242,11 @@
         }
       },
       {
-        "HashCode": 1093115153,
+<<<<<<< HEAD
+        "HashCode": -1468225722,
+=======
+        "HashCode": 565349628,
+>>>>>>> parent of 7119f92 (half through section 9. commiting in order to revert)
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
