@@ -49,7 +49,11 @@ namespace Catalog.Controllers
             Item item = new(){
                 Id = Guid.NewGuid(),
                 Name = itemDto.Name,
-                Price = itemDto.Price,
+                Effect = itemDto.Effect,
+                Duration = itemDto.Duration,
+                FirstIngredient = itemDto.FirstIngredient,
+                SecondIngredient = itemDto.SecondIngredient,
+                ThirdIngredient = itemDto.ThirdIngredient,
                 CreatedDate = DateTimeOffset.Now
             };
 
@@ -72,7 +76,11 @@ namespace Catalog.Controllers
             Item updatedItem = existingItem with
             {
                 Name = itemDto.Name,
-                Price = itemDto.Price
+                Effect = itemDto.Effect,
+                Duration = itemDto.Duration,
+                FirstIngredient = itemDto.FirstIngredient,
+                SecondIngredient = itemDto.SecondIngredient,
+                ThirdIngredient = itemDto.ThirdIngredient,
             };
 
             await repository.UpdateItemAsync(updatedItem);

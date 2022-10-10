@@ -13,7 +13,11 @@ namespace Catalog
             return new ItemDto {
                 Id = item.Id,
                 Name = item.Name,
-                Price = item.Price,
+                Effect = item.Effect,
+                Duration = item.Duration,
+                FirstIngredient = item.FirstIngredient,
+                SecondIngredient = item.SecondIngredient,
+                ThirdIngredient = item.ThirdIngredient,
                 CreatedDate = item.CreatedDate
             };
 
