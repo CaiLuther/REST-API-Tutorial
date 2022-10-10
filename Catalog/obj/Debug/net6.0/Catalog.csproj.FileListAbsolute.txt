@@ -90,3 +90,4 @@ C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST-API-Tutorial\Catalog\obj\Debu
 C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST-API-Tutorial\Catalog\obj\Debug\net6.0\Catalog.pdb
 C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST-API-Tutorial\Catalog\obj\Debug\net6.0\Catalog.genruntimeconfig.cache
 C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST-API-Tutorial\Catalog\obj\Debug\net6.0\ref\Catalog.dll
+C:\Users\cailu\OneDrive\LaunchCode\C#-Part2LC\REST-API-Tutorial\Catalog\bin\Debug\net6.0\Catalog.staticwebassets.runtime.json
