@@ -4,11 +4,13 @@
     <meta charset="UTF-8">
     <title>Spellbook</title>
     <link rel="stylesheet" href="css/site.css" />
+    <link rel="shortcut icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32">
 </head>
-<body>
-    <h1>The Witch's Cauldron</h1>
+<body >
+    <h1 class="heading">The Witch's Cauldron</h1>
     <h3>Cast a spell!</h3>
     <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
+        
         <label>Spell Name:</label>
         <input type="text" id="add-name">
         <br><br>
@@ -19,36 +21,60 @@
         <input type="text" id="add-duration">
         <br><br>
         <label>First Ingredient:</label>
-        <input type="text" id="add-first">
+        <input type="text" id="add-firstIngredient">
         <br><br>
         <label>Second Ingredient:</label>
-        <input type="text" id="add-second">
+        <input type="text" id="add-secondIngredient">
         <br><br>
         <label>Third Ingredient:</label>
-        <input type="text" id="add-third" placeholder="optional">
+        <input type="text" id="add-thirdIngredient" placeholder="optional">
         <br><br>
         <input type="submit" value="Cauldon bubble!">
     </form>
 
     <div id="editForm">
-        <h3>Edit</h3>
+        <h3>Alter Your Incantation</h3>
         <form action="javascript:void(0);" onsubmit="updateItem()">
             <input type="hidden" id="edit-id">
-            <input type="checkbox" id="edit-isComplete">
+
+            <label>Did The Spell Work?</label>
+            <input type="checkbox" id="edit-didWork">
+            <br><br>
+            <label>Spell Name:</label>
             <input type="text" id="edit-name">
-            <input type="submit" value="Save">
-            <a onclick="closeInput()" aria-label="Close">&#10006;</a>
+            <br><br>
+            <label>Spell Effect:</label>
+            <input type="text" id="edit-effect">
+            <br><br>
+            <label>Spell Duration:</label>
+            <input type="text" id="edit-duration">
+            <br><br>
+            <label>First Ingredient:</label>
+            <input type="text" id="edit-firstIngredient">
+            <br><br>
+            <label>Second Ingredient:</label>
+            <input type="text" id="edit-secondIngredient">
+            <br><br>
+            <label>Third Ingredient:</label>
+            <input type="text" id="edit-thirdIngredient">
+            <br><br>
+            <input type="submit" value="Alter Spell">
+            <br><br>
+            <a class="button" onclick="closeInput()" aria-label="Close">Quit Alteration</a>
         </form>
     </div>
-
+    <br><br>
+    <h2>Spellbook</h2>
     <p id="counter"></p>
-
     <table>
         <tr>
-            <th>Is Complete?</th>
+            <th>Did it work?</th>
             <th>Name</th>
-            <th></th>
-            <th></th>
+            <th>Effect</th>
+            <th>Duration (years)</th>
+            <th>First Ingredient</th>
+            <th>Second Ingredient</th>
+            <th>Third Ingredient</th>
         </tr>
         <tbody id="todos"></tbody>
     </table>

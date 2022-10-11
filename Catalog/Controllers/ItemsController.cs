@@ -48,6 +48,7 @@ namespace Catalog.Controllers
         {
             Item item = new(){
                 Id = Guid.NewGuid(),
+                DidWork = false,
                 Name = itemDto.Name,
                 Effect = itemDto.Effect,
                 Duration = itemDto.Duration,
@@ -75,6 +76,7 @@ namespace Catalog.Controllers
 
             Item updatedItem = existingItem with
             {
+                DidWork = itemDto.DidWork,
                 Name = itemDto.Name,
                 Effect = itemDto.Effect,
                 Duration = itemDto.Duration,

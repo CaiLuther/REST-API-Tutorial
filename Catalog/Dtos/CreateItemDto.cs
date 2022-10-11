@@ -4,6 +4,8 @@ namespace Catalog.Dtos
 {
     public record CreateItemDto
     {
+        public bool DidWork { get; init; }
+
         [Required]
         public string Name { get; init; }
         

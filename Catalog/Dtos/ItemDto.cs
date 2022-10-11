@@ -3,6 +3,7 @@ namespace Catalog.Dtos
      public record ItemDto
     {
         public Guid Id { get; init; }
+        public bool DidWork { get; init; }
         public string Name { get; init; }
         public string  Effect { get; init; }
         public int Duration { get; init; }

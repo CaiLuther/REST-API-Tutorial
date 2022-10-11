@@ -12,6 +12,7 @@ namespace Catalog
         {
             return new ItemDto {
                 Id = item.Id,
+                DidWork = item.DidWork,
                 Name = item.Name,
                 Effect = item.Effect,
                 Duration = item.Duration,
