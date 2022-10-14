@@ -1,3 +1,8 @@
+/* @font-face{
+    font-family: 'witchy';
+    src: local("./Fonts/LongdonDecorative-5aPv.ttf");
+} */
+
 input[type='submit'], button, [aria-label] {
     cursor: pointer;
 }
@@ -9,15 +14,49 @@ input[type='submit'], button, [aria-label] {
 body {
     background-color: rgb(220, 127, 220);
 }
+
 table {
-    font-family: Arial, sans-serif;
     border: 1px solid;
     border-collapse: collapse;
     background-color: black;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-h1,h2,h3 {
+h1 {
+    font-family: 'Euphoria Script', cursive;
+    font-style: italic;
     color: rgb(70, 0, 70);
+    font-size: 75px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Euphoria Script', cursive;
+    color: rgb(70, 0, 70);
+    font-size: 50px;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Euphoria Script', cursive;
+    color: rgb(70, 0, 70);
+    font-size: 40px;
+    text-align: center;
+}
+
+#counter {
+    font-family: 'Euphoria Script', cursive;
+    color: rgb(70, 0, 70);
+    font-size: 20px;
+    text-align: center;
+}
+
+.addAndEditForm {
+    font-family: 'Euphoria Script', cursive;
+    color: rgb(70, 0, 70);
+    font-size: 20px;
+    text-align: center;
 }
 
 
@@ -36,14 +75,30 @@ td {
     padding: 5px;
 }
 
-.button {
-    font: bold 11px Arial;
+a.button {
+    font-family: Tahoma;
+    font-size: 14px;
     text-decoration: none;
     background-color: #EEEEEE;
-    color: #333333;
-    padding: 2px 6px 2px 6px;
-    border-top: 1px solid #CCCCCC;
-    border-right: 1px solid #333333;
-    border-bottom: 1px solid #333333;
-    border-left: 1px solid #CCCCCC;
+    color: #000000;
+    padding: 1px 6px 2px 6px;
+    border-top: 1px solid #898686;
+    border-right: 1px solid #898686;
+    border-bottom: 1px solid #898686;
+    border-left: 1px solid #898686;
+    border-radius: 5px;
+    
+  }
+
+  hr {
+    height: 5px;
+    background: rgb(70, 0, 70);;
+    margin: 20px 0;
+    box-shadow: 0px 0px 4px 2px rgb(230, 182, 230);
+  }
+
+  .allSpells {
+    font-family: 'Euphoria Script', cursive;
+    color: rgb(70, 0, 70);
+    font-size: 40px;
   }

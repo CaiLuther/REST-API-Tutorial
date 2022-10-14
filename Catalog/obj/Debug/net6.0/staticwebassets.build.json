@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PC0RP/3IclWCNeYmFibrfKPr96QPAVqfCZ4pP3ZJAN8=",
+  "Hash": "dMhgS1F9814G/Ldg3OE83mlkBrlRT6ZIcmynLswLxOo=",
   "Source": "Catalog",
   "BasePath": "_content/Catalog",
   "Mode": "Default",
@@ -32,6 +32,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST-API-Tutorial\\Catalog\\wwwroot\\Fonts\\witchy.ttf",
+      "SourceId": "Catalog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST-API-Tutorial\\Catalog\\wwwroot\\",
+      "BasePath": "_content/Catalog",
+      "RelativePath": "Fonts/witchy.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Fonts\\witchy.ttf"
     },
     {
       "Identity": "C:\\Users\\cailu\\OneDrive\\LaunchCode\\C#-Part2LC\\REST-API-Tutorial\\Catalog\\wwwroot\\images\\favicon-32x32.png",

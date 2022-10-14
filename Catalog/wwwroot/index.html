@@ -2,38 +2,46 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Spellbook</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Euphoria+Script&display=swap" rel="stylesheet"> 
+    <title>The Witch's Cauldron</title>
     <link rel="stylesheet" href="css/site.css" />
     <link rel="shortcut icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32">
 </head>
 <body >
     <h1 class="heading">The Witch's Cauldron</h1>
-    <h3>Cast a spell!</h3>
-    <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
-        
-        <label>Spell Name:</label>
-        <input type="text" id="add-name">
-        <br><br>
-        <label>Spell Effect:</label>
-        <input type="text" id="add-effect">
-        <br><br>
-        <label>Spell Duration:</label>
-        <input type="text" id="add-duration">
-        <br><br>
-        <label>First Ingredient:</label>
-        <input type="text" id="add-firstIngredient">
-        <br><br>
-        <label>Second Ingredient:</label>
-        <input type="text" id="add-secondIngredient">
-        <br><br>
-        <label>Third Ingredient:</label>
-        <input type="text" id="add-thirdIngredient" placeholder="optional">
-        <br><br>
-        <input type="submit" value="Cauldon bubble!">
-    </form>
+    <h2>Cast a spell!</h2>
 
-    <div id="editForm">
-        <h3>Alter Your Incantation</h3>
+    <div id="addForm" class="addAndEditForm">
+        <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
+            
+            <label>Spell Name:</label>
+            <input type="text" id="add-name">
+            <br><br>
+            <label>Spell Effect:</label>
+            <input type="text" id="add-effect">
+            <br><br>
+            <label>Spell Duration:</label>
+            <input type="text" id="add-duration">
+            <br><br>
+            <label>First Ingredient:</label>
+            <input type="text" id="add-firstIngredient">
+            <br><br>
+            <label>Second Ingredient:</label>
+            <input type="text" id="add-secondIngredient">
+            <br><br>
+            <label>Third Ingredient:</label>
+            <input type="text" id="add-thirdIngredient" placeholder="optional">
+            <br><br>
+            <input type="submit" value="Cauldon bubble!">
+            <br><br>
+            <hr class="line">
+        </form>
+    </div>
+
+    <div id="editForm" class="addAndEditForm">
+        <h2>Alter Your Incantation</h2>
         <form action="javascript:void(0);" onsubmit="updateItem()">
             <input type="hidden" id="edit-id">
 
@@ -60,28 +68,44 @@
             <br><br>
             <input type="submit" value="Alter Spell">
             <br><br>
-            <a class="button" onclick="closeInput()" aria-label="Close">Quit Alteration</a>
+            <a class="button" onclick="closeInput()">Quit Alteration</a>
+            <hr>
         </form>
     </div>
     <br><br>
-    <h2>Spellbook</h2>
-    <p id="counter"></p>
-    <table>
-        <tr>
-            <th>Did it work?</th>
-            <th>Name</th>
-            <th>Effect</th>
-            <th>Duration (years)</th>
-            <th>First Ingredient</th>
-            <th>Second Ingredient</th>
-            <th>Third Ingredient</th>
-        </tr>
-        <tbody id="todos"></tbody>
-    </table>
 
-    <script src="js/site.js" asp-append-version="true"></script>
-    <script type="text/javascript">
-        getItems();
-    </script>
+    <h2>Spellbook</h2>
+    <p id="counter" ></p>
+    
+    <div id="searchForm">
+        <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
+            <label>Search Spells</label>
+            <input type="text" id="searchTerm">
+            <input type="submit" value="Search">
+            <br><br>
+        </form>
+    </div>
+
+    <div>
+        <p class="allSpells">All Spells</p>
+        <table>
+            <tr>
+                <th>Did it work?</th>
+                <th>Name</th>
+                <th>Effect</th>
+                <th>Duration (years)</th>
+                <th>First Ingredient</th>
+                <th>Second Ingredient</th>
+                <th>Third Ingredient</th>
+            </tr>
+            <tbody id="todos"></tbody>
+        </table>
+      
+        <script src="js/site.js" asp-append-version="true"></script>
+        <script type="text/javascript">
+            getItems();
+        </script>
+    </div>
+    
 </body>
 </html>

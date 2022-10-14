@@ -8,6 +8,13 @@ function getItems() {
     .catch(error => console.error('Unable to get items.', error));
 }
 
+function getItemsDisplaySearch() {
+  fetch(uri)
+    .then(response => response.json())
+    .then(data => _displaySearchItems(data))
+    .catch(error => console.error('Unable to get items.', error));
+}
+
 function addItem() {
   const addNameTextbox = document.getElementById('add-name');
   const addEffectTextbox = document.getElementById('add-effect');
@@ -183,4 +190,74 @@ function _displayItems(data) {
 
   todos = data;
 
+}
+
+function _displaySearchItems(data){
+  const searchTerm = document.getElementById;
+  console  
+
+  const tBody = document.getElementById('todos');
+  tBody.innerHTML = '';
+
+  _displayCount(data.length);
+
+  const button = document.createElement('button');
+
+  data.forEach(item => {
+    let didWorkCheckbox = document.createElement('input');
+    didWorkCheckbox.type = 'checkbox';
+    didWorkCheckbox.disabled = true;
+    didWorkCheckbox.checked = item.didWork;
+
+    let editButton = button.cloneNode(false);
+    editButton.innerText = 'Edit';
+    editButton.dataset.itemId = item.id;
+
+    editButton.addEventListener('click', displayEditForm)
+    //editButton.setAttribute('onclick', `displayEditForm(${item.id})`);
+
+    let deleteButton = button.cloneNode(false);
+    deleteButton.innerText = 'Delete';
+    deleteButton.dataset.itemId = item.id;
+
+    deleteButton.addEventListener('click', deleteItem);
+    //deleteButton.setAttribute('onclick', `deleteItem(${item.id})`);
+
+    let tr = tBody.insertRow();
+    
+    let td1 = tr.insertCell(0);
+    td1.appendChild(didWorkCheckbox);
+
+    let td2 = tr.insertCell(1);
+    let textNode = document.createTextNode(item.name);
+    td2.appendChild(textNode);
+
+    let td3 = tr.insertCell(2);
+    let textNode2 = document.createTextNode(item.effect);
+    td3.appendChild(textNode2);
+
+    let td4 = tr.insertCell(3);
+    let textNode3 = document.createTextNode(item.duration);
+    td4.appendChild(textNode3);
+
+    let td5 = tr.insertCell(4);
+    let textNode4 = document.createTextNode(item.firstIngredient);
+    td5.appendChild(textNode4);
+
+    let td6 = tr.insertCell(5);
+    let textNode5 = document.createTextNode(item.secondIngredient);
+    td6.appendChild(textNode5);
+
+    let td7 = tr.insertCell(6);
+    let textNode6 = document.createTextNode(item.thirdIngredient);
+    td7.appendChild(textNode6);
+
+    let td8 = tr.insertCell(7);
+    td8.appendChild(editButton);
+
+    let td9 = tr.insertCell(8);
+    td9.appendChild(deleteButton);
+  });
+
+  todos = data;
 }
